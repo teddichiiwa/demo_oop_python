@@ -1,0 +1,17 @@
+# git basic
+### Declare class
+### Init class
+# _str_ in python
+# iterator -> chắc skip cái này
+### inheritance -> must call super
+# getter setter -> property
+# private public protected
+# comparable
+# abstract method
+# abstract property
+# static method
+
+
+
+
+
